@@ -81,3 +81,6 @@ wasm/
 wasm-b*.zip
 *.tmp
 *.wasm
+
+# WADs in the root dir (they belong in wads/ instead)
+/*.wad
