@@ -1,0 +1,3 @@
+[submodule "doom-crt"]
+	path = doom-crt
+	url = https://github.com/matthewyang204/doom-crt.git
